@@ -1,7 +1,7 @@
 ﻿$appId=""
 $appSecret=""
 $tenantId=""
-$subscriptionName=""
+$subscriptionName="Pay As You Go"
 $resourceGroup = "CookbookRG"
 
 az login --service-principal --username $appId --password $appSecret --tenant $TenantId
