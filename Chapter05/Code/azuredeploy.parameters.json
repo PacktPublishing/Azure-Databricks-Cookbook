@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "keyVaultName": {
+      "value": "AzureKeyVault-Prod1"
+    },
+    "objectId": {
+      "value": "5csdasd2d2a6-ed3d-46ec-b578-6f3sdasdda5819c6"
+    },
+    "secretName": {
+      "value": "blobstorage"
+    },
+    "secretValue": {
+      "value": "AoYKWgBJCs0asdasdasdxXse0gAlUpLKdJ1BasdasdasdVuFb7MXGnpbsdasdazag=="
+    }
+  }
+}
