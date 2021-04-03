@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 
-# #Required for Event Hubs for kafka
-# sasl.mechanism=PLAIN
-# security.protocol=SASL_SSL
-# sasl.jaas.config=org.apache.kafka.common.security.plain.PlainLoginModule required username="$ConnectionString" password="{YOUR.EVENTHUBS.CONNECTION.STRING}";
-
-
 from confluent_kafka import Producer,Consumer
 import sys
 import json
@@ -42,7 +36,7 @@ for x in range(0, 10):
     devices.append(str(uuid.uuid4()))
 
 for y in range(0,20):    # For each device, produce 20 events. 
-    # event_data_batch = producer.create_batch() # Create a batch. You will add events to the batch later. 
+    # . 
     for dev in devices:
         try:
         # Create a dummy vehicle reading.

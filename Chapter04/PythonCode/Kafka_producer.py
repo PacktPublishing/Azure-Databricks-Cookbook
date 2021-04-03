@@ -27,11 +27,7 @@ for y in range(0,20):    # For each device, produce 20 events.
     for dev in devices:
         # Create a dummy reading.
         reading = {'id': dev, 'timestamp': str(datetime.datetime.utcnow()), 'rpm': random.randrange(100), 'speed': random.randint(70, 100), 'kms': random.randint(100, 1000)}
-        # s = json.dumps(reading) # Convert the reading into a JSON string.
-        # event_data_batch.add(EventData(s)) # Add event data to the batch.
+
         producer.send('VehicleDetails',reading)
         producer.flush()
-    # producer.send_batch(event_data_batch) # Send the batch of events to the event hub.
 
-# Close the producer.    
-# producer.close()
