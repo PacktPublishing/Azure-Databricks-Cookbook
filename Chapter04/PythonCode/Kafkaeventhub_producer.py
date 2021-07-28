@@ -8,12 +8,12 @@ import uuid
 import random
 
 conf = {
-    'bootstrap.servers': 'kafkaenabledeventhubns.servicebus.windows.net:9093',
+    'bootstrap.servers': 'kafkatestenabledeventhubns.servicebus.windows.net:9093',
     'security.protocol': 'SASL_SSL',
     'sasl.mechanism': 'PLAIN',
     'sasl.username': '$ConnectionString',
     'ssl.ca.location': 'cacert.pem',  
-    'sasl.password': 'Endpoint=sb://kafkaenabledeventhubns.servicebus.windows.net/;SharedAccessKeyName=sendreceivekafka;SharedAccessKey=4vxbVwOGJD7b4aVcUWBvYp440+SFHpRyQVIpMeXvoVE=',
+    'sasl.password': 'Endpoint=sb://kafkaenabledeventhubns.servicebus.windows.net/;SharedAccessKeyName=sendreceivekafka;SharedAccessKey=4vxbdsfdfdsffdsfHdfsdfsdfsdfsdfvoVE=',
     'client.id': 'python-example-producer'
 }
 
