@@ -13,7 +13,7 @@ conf = {
     'sasl.mechanism': 'PLAIN',
     'sasl.username': '$ConnectionString',
     'ssl.ca.location': 'cacert.pem',  
-    'sasl.password': 'Endpoint=sb://kafkaenabledeventhubns.servicebus.windows.net/;SharedAccessKeyName=sendreceivekafka;SharedAccessKey=4vxbdsfdfdsffdsfHdfsdfsdfsdfsdfvoVE=',
+    'sasl.password': 'Endpoint=sb://kafkatestenabledeventhubns.servicebus.windows.net/;SharedAccessKeyName=sendreceivekafka;SharedAccessKey=4vxbdsfdfdsffdsfHdfsdfsdfsdfsdfvoVE=',
     'client.id': 'python-example-producer'
 }
 
