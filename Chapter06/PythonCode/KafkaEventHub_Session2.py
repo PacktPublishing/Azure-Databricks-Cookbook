@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-
-# #Required for Event Hubs for kafka
-# sasl.mechanism=PLAIN
-# security.protocol=SASL_SSL
-# sasl.jaas.config=org.apache.kafka.common.security.plain.PlainLoginModule required username="$ConnectionString" password="{YOUR.EVENTHUBS.CONNECTION.STRING}";
-
 
 from confluent_kafka import Producer,Consumer
 import sys
@@ -19,7 +12,7 @@ conf = {
     'sasl.mechanism': 'PLAIN',
     'sasl.username': '$ConnectionString',
     'ssl.ca.location': 'cacert.pem',  
-    'sasl.password': 'Endpoint=sb://kafkaenabledeventhubns.servicebus.windows.net/;SharedAccessKeyName=sendreceivekafka;SharedAccessKey=4vxbVwOGJDasdasdasdasd+SFHpwqdqQVIpMeXvoVE=',
+    'sasl.password': 'Endpoint=sb://kafkaenabledeventhubns.servicebus.windows.net/;SharedAccessKeyName=sendreceivekafka;SharedAccessKey=zzzzz',
     'client.id': 'python-example-producer'
 }
 
