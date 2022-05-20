@@ -1,0 +1,1249 @@
+[
+  {
+    "_id": "60f623c9d8d1e34862b9b27c",
+    "index": 0,
+    "vehicleid": "fae978a0-bc26-435f-8a63-8f6ccbe2d24c",
+    "vehiclename": "Ford",
+    "cost": "$5,960.22",
+    "Fuel": "petrol",
+    "color": "white",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Kathleen Branch",
+    "Transmission": "manual",
+    "sellingcompany": "Company4",
+    "phone": "+1 (910) 469-3918",
+    "address": "165 Bragg Court, Sunwest, New Mexico, 9892",
+    "about": "Amet adipisicing est dolore nulla labore consequat amet. Culpa incididunt culpa fugiat qui commodo dolor tempor amet culpa. Et fugiat mollit ad excepteur. Labore eu irure ad ut veniam officia laboris quis Lorem magna. Consequat est deserunt culpa cupidatat. Consequat labore ullamco cupidatat exercitation deserunt magna occaecat consequat enim.\r\n",
+    "eventtime": "2020-09-08T10:08:20 -06:-30",
+    "latitude": -86.926905,
+    "longitude": 171.157685,
+    "owners": [
+      {
+        "phone": "+1 (867) 507-2136",
+        "name": "Monique Byrd"
+      },
+      {
+        "phone": "+1 (891) 528-2701",
+        "name": "Tran Horne"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c95e54d1b4f4697b8d",
+    "index": 1,
+    "vehicleid": "680a242e-45a0-454d-b4d0-185c1bb5765d",
+    "vehiclename": "Jeep",
+    "cost": "$9,148.45",
+    "Fuel": "petrol",
+    "color": "brown",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Alford Cantrell",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (942) 442-2910",
+    "address": "485 Aurelia Court, Guilford, Florida, 5700",
+    "about": "Est nostrud minim sunt quis ad commodo occaecat nostrud magna. Cillum laborum occaecat veniam tempor nisi eu cillum ea laborum eu mollit sunt incididunt. Enim dolor Lorem incididunt id commodo amet ipsum esse nulla velit ad. Consequat id aliqua est elit. Enim culpa Lorem adipisicing aute culpa officia minim ex laboris pariatur aute nostrud. Exercitation duis ullamco cillum Lorem laboris irure ullamco veniam aliquip nostrud laborum.\r\n",
+    "eventtime": "2017-10-26T01:34:07 -06:-30",
+    "latitude": -56.902932,
+    "longitude": 125.568687,
+    "owners": [
+      {
+        "phone": "+1 (991) 408-3556",
+        "name": "Robles Munoz"
+      },
+      {
+        "phone": "+1 (812) 487-2729",
+        "name": "Sullivan Rivers"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c945f7a04ee31acc3e",
+    "index": 2,
+    "vehicleid": "83a24b84-30d3-4d0f-9b0e-1a9642dd658d",
+    "vehiclename": "Ford",
+    "cost": "$8,655.84",
+    "Fuel": "petrol",
+    "color": "black",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Hester French",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (944) 574-3829",
+    "address": "152 Rose Street, Fairfield, Pennsylvania, 6786",
+    "about": "Voluptate consequat eiusmod esse proident fugiat eu consequat. Anim deserunt irure voluptate ullamco non culpa eu reprehenderit excepteur. Laborum cupidatat elit aute dolore nulla consequat voluptate labore consequat veniam ut qui. Nulla voluptate id do dolor elit magna. Eu esse nulla Lorem exercitation amet minim culpa nulla reprehenderit sint pariatur. Magna pariatur pariatur cillum mollit voluptate dolore.\r\n",
+    "eventtime": "2017-04-29T03:38:53 -06:-30",
+    "latitude": 45.152327,
+    "longitude": -48.659824,
+    "owners": [
+      {
+        "phone": "+1 (870) 562-2532",
+        "name": "Vazquez Chase"
+      },
+      {
+        "phone": "+1 (973) 470-3620",
+        "name": "Madden Camacho"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c976333dfadd50ad41",
+    "index": 3,
+    "vehicleid": "7068acfd-3506-45e2-a686-d2d82048c06c",
+    "vehiclename": "Cadillac",
+    "cost": "$3,276.07",
+    "Fuel": "petrol",
+    "color": "blue",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Fannie Tillman",
+    "Transmission": "automatic",
+    "sellingcompany": "Company3",
+    "phone": "+1 (954) 572-3433",
+    "address": "411 Jerome Street, Linganore, Kansas, 8161",
+    "about": "Aute proident sunt minim id irure magna eiusmod ad. Deserunt in ipsum velit cupidatat do aliquip dolore culpa laboris irure. Elit labore et consectetur quis dolore veniam dolor qui ex eiusmod elit deserunt quis. Et excepteur officia esse excepteur occaecat qui enim. Nostrud Lorem minim officia consectetur commodo eiusmod et. Aute qui minim non dolore deserunt in velit Lorem laboris sit cillum incididunt.\r\n",
+    "eventtime": "2018-03-07T04:41:28 -06:-30",
+    "latitude": 74.052341,
+    "longitude": 165.546523,
+    "owners": [
+      {
+        "phone": "+1 (893) 576-3430",
+        "name": "Woods Hurley"
+      },
+      {
+        "phone": "+1 (824) 566-2733",
+        "name": "Phillips Compton"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c982299926ce22f9a9",
+    "index": 4,
+    "vehicleid": "734b1c6e-24d3-4e94-9d76-285b7f356065",
+    "vehiclename": "Ford",
+    "cost": "$2,328.78",
+    "Fuel": "diesel",
+    "color": "blue",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Brianna Carpenter",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (989) 466-3510",
+    "address": "776 Ford Street, Independence, Guam, 8477",
+    "about": "Adipisicing eiusmod sit laboris sit Lorem dolore anim sunt deserunt labore incididunt proident. Adipisicing cillum nulla nisi nisi magna nostrud fugiat consequat cillum eiusmod mollit. Tempor mollit et sunt sit Lorem velit ullamco laborum anim. Mollit elit anim occaecat sint pariatur ut aliqua magna exercitation nostrud ea deserunt.\r\n",
+    "eventtime": "2018-11-20T03:11:35 -06:-30",
+    "latitude": 82.138476,
+    "longitude": 135.808126,
+    "owners": [
+      {
+        "phone": "+1 (864) 510-3715",
+        "name": "Colette Shaw"
+      },
+      {
+        "phone": "+1 (948) 481-3696",
+        "name": "Taylor Short"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9aa436f142e24128c",
+    "index": 5,
+    "vehicleid": "1d302c0b-cbcf-43ce-a9a8-35de0a596db4",
+    "vehiclename": "Cadillac",
+    "cost": "$2,021.89",
+    "Fuel": "Electric",
+    "color": "black",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Elliott Carney",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (807) 551-2745",
+    "address": "603 Blake Court, Mammoth, Delaware, 7199",
+    "about": "Elit sit nostrud cillum aliquip amet sunt. Nulla enim exercitation magna tempor. Enim laboris irure mollit ea dolor. Quis fugiat minim est deserunt nisi ad quis exercitation laborum eiusmod.\r\n",
+    "eventtime": "2016-02-22T10:03:09 -06:-30",
+    "latitude": -34.235196,
+    "longitude": 142.720509,
+    "owners": [
+      {
+        "phone": "+1 (956) 466-2533",
+        "name": "Clark Lewis"
+      },
+      {
+        "phone": "+1 (973) 505-2440",
+        "name": "Atkins Dickerson"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9682c63f100d6e8ed",
+    "index": 6,
+    "vehicleid": "fa56dd3a-c7f7-4955-b159-e40d0c8d974b",
+    "vehiclename": "Cadillac",
+    "cost": "$4,887.00",
+    "Fuel": "petrol",
+    "color": "brown",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Harrington Small",
+    "Transmission": "manual",
+    "sellingcompany": "Company4",
+    "phone": "+1 (830) 506-3480",
+    "address": "483 Vandervoort Place, Gambrills, Nebraska, 2451",
+    "about": "Labore tempor velit ullamco et dolor pariatur reprehenderit anim. Duis velit proident officia pariatur consequat aliquip dolore id officia mollit cupidatat dolor. Laborum fugiat aute ullamco dolore. Ea ex elit labore culpa deserunt sit enim proident. Exercitation ipsum mollit esse sunt sit.\r\n",
+    "eventtime": "2020-04-04T11:55:09 -06:-30",
+    "latitude": 14.829947,
+    "longitude": -137.413373,
+    "owners": [
+      {
+        "phone": "+1 (994) 554-2540",
+        "name": "Rhea Collins"
+      },
+      {
+        "phone": "+1 (981) 582-3094",
+        "name": "Simpson Clark"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9803162bb9009ec21",
+    "index": 7,
+    "vehicleid": "0a00a0d8-c8ab-4b31-9006-41e806cc748c",
+    "vehiclename": "Jeep",
+    "cost": "$4,281.43",
+    "Fuel": "Electric",
+    "color": "blue",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Cook Pierce",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (834) 588-3611",
+    "address": "196 Eagle Street, Ballico, Rhode Island, 9318",
+    "about": "Non id pariatur proident do eiusmod nulla dolor ea nostrud esse cupidatat esse. Nulla irure ullamco enim officia nulla esse fugiat aliquip. Ad tempor nulla Lorem deserunt cupidatat nulla laboris. Est cillum ut officia cillum tempor sit occaecat est.\r\n",
+    "eventtime": "2018-12-08T08:33:08 -06:-30",
+    "latitude": -0.177036,
+    "longitude": 169.070626,
+    "owners": [
+      {
+        "phone": "+1 (896) 416-3553",
+        "name": "Huff Estrada"
+      },
+      {
+        "phone": "+1 (942) 420-3979",
+        "name": "Kaye Russo"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c995307d8e472f2376",
+    "index": 8,
+    "vehicleid": "1baceaa9-3882-463f-b53f-a6c0629a8bf5",
+    "vehiclename": "Jeep",
+    "cost": "$5,686.07",
+    "Fuel": "Electric",
+    "color": "brown",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Vega Vega",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (833) 561-3842",
+    "address": "862 Manhattan Court, Blanco, California, 2913",
+    "about": "Ea mollit do cupidatat cillum velit id nisi id laboris reprehenderit officia mollit. In tempor enim fugiat id veniam culpa et voluptate eu aute. Enim id laboris do anim irure reprehenderit consequat et.\r\n",
+    "eventtime": "2018-06-27T02:38:21 -06:-30",
+    "latitude": -39.934108,
+    "longitude": 44.807535,
+    "owners": [
+      {
+        "phone": "+1 (978) 433-3409",
+        "name": "Alberta Sherman"
+      },
+      {
+        "phone": "+1 (801) 538-3374",
+        "name": "Fitzpatrick Barnett"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c92b6d5bf995ad9305",
+    "index": 9,
+    "vehicleid": "37d121cc-aa7f-4260-bc46-46be4886eae3",
+    "vehiclename": "Chevrolet",
+    "cost": "$9,332.45",
+    "Fuel": "diesel",
+    "color": "blue",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Sonya Levine",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (826) 558-2579",
+    "address": "140 Havemeyer Street, Ribera, Georgia, 1110",
+    "about": "Qui enim culpa voluptate voluptate qui sunt amet magna reprehenderit aute consequat duis laboris. Est nisi Lorem dolor adipisicing id et qui est do do non laborum veniam dolore. Pariatur cillum qui ad laboris. Adipisicing incididunt laboris exercitation culpa ad do reprehenderit in Lorem minim.\r\n",
+    "eventtime": "2019-11-09T09:03:01 -06:-30",
+    "latitude": -58.8135,
+    "longitude": -172.250223,
+    "owners": [
+      {
+        "phone": "+1 (940) 437-3058",
+        "name": "Frankie Allison"
+      },
+      {
+        "phone": "+1 (866) 445-2854",
+        "name": "Schroeder Clements"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c96c451c34656f8cfd",
+    "index": 10,
+    "vehicleid": "cbf2836f-04ab-4b35-a26b-ff5170851084",
+    "vehiclename": "Chevrolet",
+    "cost": "$2,463.38",
+    "Fuel": "petrol",
+    "color": "green",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Fernandez Walters",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (855) 571-3791",
+    "address": "297 Lewis Place, Southview, New Jersey, 7415",
+    "about": "Consectetur esse tempor velit ad consectetur exercitation quis nulla cupidatat aute velit esse esse do. Irure cillum incididunt amet sint sunt fugiat in esse incididunt exercitation reprehenderit elit tempor irure. Ea aliquip esse labore est do in.\r\n",
+    "eventtime": "2015-10-17T12:31:55 -06:-30",
+    "latitude": 5.093691,
+    "longitude": 70.030076,
+    "owners": [
+      {
+        "phone": "+1 (825) 585-2153",
+        "name": "Lorie Orr"
+      },
+      {
+        "phone": "+1 (982) 412-2705",
+        "name": "Page Wall"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9dedfa53dbb3468e8",
+    "index": 11,
+    "vehicleid": "35262fb5-9344-4adf-b889-d7928dc6d4b2",
+    "vehiclename": "Buick",
+    "cost": "$6,461.65",
+    "Fuel": "Electric",
+    "color": "white",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Dorsey Stuart",
+    "Transmission": "automatic",
+    "sellingcompany": "Company2",
+    "phone": "+1 (846) 587-2458",
+    "address": "541 Ira Court, Coyote, Vermont, 4745",
+    "about": "Duis nostrud consequat in nulla id incididunt elit. Et enim dolor laboris eiusmod tempor incididunt officia eiusmod ipsum. Proident elit amet nisi mollit dolore est commodo eu cillum qui.\r\n",
+    "eventtime": "2021-06-04T12:31:00 -06:-30",
+    "latitude": 43.366997,
+    "longitude": -164.737704,
+    "owners": [
+      {
+        "phone": "+1 (807) 539-3425",
+        "name": "Shelly Gentry"
+      },
+      {
+        "phone": "+1 (819) 475-3335",
+        "name": "Blackburn Mooney"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9bd0f98755c7ce96e",
+    "index": 12,
+    "vehicleid": "871d9911-350e-4157-b3f6-4acde4875406",
+    "vehiclename": "Jeep",
+    "cost": "$2,865.36",
+    "Fuel": "diesel",
+    "color": "white",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Bird Carey",
+    "Transmission": "automatic",
+    "sellingcompany": "Company3",
+    "phone": "+1 (957) 434-2314",
+    "address": "217 Jefferson Street, Bainbridge, Maryland, 2813",
+    "about": "Commodo adipisicing incididunt Lorem laborum eiusmod pariatur ex excepteur proident eu ipsum qui exercitation aute. Cupidatat mollit eu nisi dolore labore commodo aliquip reprehenderit. Adipisicing enim magna veniam cillum culpa deserunt proident pariatur sunt sit anim excepteur id. Dolore id pariatur ad elit officia officia ut non culpa consectetur cillum officia. Officia voluptate ut consectetur ipsum cillum cupidatat culpa laboris do aliquip laborum.\r\n",
+    "eventtime": "2018-07-12T04:01:11 -06:-30",
+    "latitude": 11.304171,
+    "longitude": -75.548634,
+    "owners": [
+      {
+        "phone": "+1 (854) 405-3315",
+        "name": "Whitaker Erickson"
+      },
+      {
+        "phone": "+1 (963) 576-2862",
+        "name": "Allison Dejesus"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c905ff2b084bf0af79",
+    "index": 13,
+    "vehicleid": "548ce872-f40c-40d0-8a3d-ddf22730173d",
+    "vehiclename": "Chevrolet",
+    "cost": "$6,618.79",
+    "Fuel": "petrol",
+    "color": "black",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Anthony Bryant",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (921) 407-3543",
+    "address": "284 Broome Street, Whitewater, Palau, 1087",
+    "about": "Amet id ad dolor non. Elit enim dolor et officia officia ex ullamco. Et enim exercitation ad enim eu aliquip in. Ullamco ipsum eu sint minim exercitation ullamco labore amet fugiat aliquip pariatur. Consequat et deserunt nostrud qui est duis ad irure. Deserunt exercitation sunt non nulla nulla nulla mollit ipsum.\r\n",
+    "eventtime": "2014-06-16T08:20:29 -06:-30",
+    "latitude": -14.155521,
+    "longitude": 2.915449,
+    "owners": [
+      {
+        "phone": "+1 (901) 548-3837",
+        "name": "Bonita Alston"
+      },
+      {
+        "phone": "+1 (973) 589-3263",
+        "name": "Arnold Randolph"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9c47ee5cef498b979",
+    "index": 14,
+    "vehicleid": "c690f9c1-a301-44ac-9968-abb9f1d7b591",
+    "vehiclename": "Ford",
+    "cost": "$3,433.96",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Valentine Willis",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (886) 586-2760",
+    "address": "227 Tech Place, Maybell, District Of Columbia, 5375",
+    "about": "Amet exercitation ut minim ea fugiat dolore aute. Nostrud adipisicing culpa enim velit reprehenderit. Tempor elit magna aliquip proident sint velit elit culpa. Non sunt minim labore occaecat velit ea adipisicing.\r\n",
+    "eventtime": "2019-04-04T08:24:35 -06:-30",
+    "latitude": -46.074397,
+    "longitude": 179.561211,
+    "owners": [
+      {
+        "phone": "+1 (876) 595-2232",
+        "name": "Rosa Gonzales"
+      },
+      {
+        "phone": "+1 (890) 562-2257",
+        "name": "Madelyn Holcomb"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9bc69383b690ac2f2",
+    "index": 15,
+    "vehicleid": "75c70561-6ba8-4f60-9cab-70306e054018",
+    "vehiclename": "Buick",
+    "cost": "$5,770.04",
+    "Fuel": "petrol",
+    "color": "brown",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Kristen Cochran",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (968) 522-3077",
+    "address": "241 Malta Street, Weeksville, Puerto Rico, 3904",
+    "about": "Nulla duis pariatur reprehenderit occaecat proident tempor. Magna cupidatat ex ipsum nisi ex Lorem esse id eiusmod. Fugiat et ea consectetur ut elit quis dolor veniam laboris amet officia fugiat elit. Ad occaecat eu qui laborum sit ex. Consectetur cupidatat excepteur et officia do pariatur aliqua pariatur laborum duis fugiat.\r\n",
+    "eventtime": "2017-02-21T10:49:07 -06:-30",
+    "latitude": -66.561331,
+    "longitude": 25.625346,
+    "owners": [
+      {
+        "phone": "+1 (866) 532-3321",
+        "name": "Walter Cameron"
+      },
+      {
+        "phone": "+1 (801) 475-3703",
+        "name": "Cora Wheeler"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9c834c4e03495cd4d",
+    "index": 16,
+    "vehicleid": "ec6d9134-d2c7-4398-9be3-92f44f5492a8",
+    "vehiclename": "Jeep",
+    "cost": "$6,140.62",
+    "Fuel": "petrol",
+    "color": "white",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Salas Hendrix",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (816) 422-2380",
+    "address": "275 Atlantic Avenue, Bourg, Virginia, 6970",
+    "about": "Duis id culpa laboris minim elit culpa eiusmod culpa voluptate nulla aute. Tempor in fugiat ullamco quis officia ullamco labore irure id. Nostrud eiusmod sunt cillum velit enim eiusmod esse nisi. Dolor proident consequat irure nisi id magna ut in nulla esse cillum voluptate dolor. Do aute occaecat ipsum consequat irure elit. Consectetur incididunt ut tempor dolor laborum pariatur ut enim officia commodo ipsum. Dolore labore aliqua irure reprehenderit esse aute pariatur labore.\r\n",
+    "eventtime": "2018-07-11T11:59:12 -06:-30",
+    "latitude": 30.577754,
+    "longitude": -132.044376,
+    "owners": [
+      {
+        "phone": "+1 (987) 421-2588",
+        "name": "Elizabeth Graves"
+      },
+      {
+        "phone": "+1 (928) 597-2713",
+        "name": "Brooks Waller"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9ac350e31dcf1e65d",
+    "index": 17,
+    "vehicleid": "339411cc-978d-4eeb-8535-579c49603d77",
+    "vehiclename": "Chevrolet",
+    "cost": "$9,697.74",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Warner Roy",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (946) 496-2063",
+    "address": "956 Royce Street, Allamuchy, Washington, 3421",
+    "about": "Do anim excepteur deserunt enim id ipsum eiusmod cillum enim cillum commodo. Nulla aliquip sint eu reprehenderit laborum irure velit ex nisi occaecat amet. Labore ex non excepteur culpa anim commodo cillum pariatur laboris labore id cupidatat. Nostrud labore in sint exercitation exercitation sit proident et culpa ut ullamco. Ad mollit qui mollit nulla enim. Proident eu et do irure deserunt ex. Dolore ullamco deserunt consectetur officia est sint est laborum dolore.\r\n",
+    "eventtime": "2018-12-06T04:10:52 -06:-30",
+    "latitude": 39.15807,
+    "longitude": 27.976535,
+    "owners": [
+      {
+        "phone": "+1 (910) 593-3079",
+        "name": "Hallie Merrill"
+      },
+      {
+        "phone": "+1 (873) 435-2311",
+        "name": "Ferguson Bass"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c991447d95bd087520",
+    "index": 18,
+    "vehicleid": "86abe7f8-3a72-4426-bdcb-d77bd92430d8",
+    "vehiclename": "Cadillac",
+    "cost": "$9,226.27",
+    "Fuel": "diesel",
+    "color": "brown",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Morin Ward",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (986) 418-2421",
+    "address": "595 Coyle Street, Kieler, North Carolina, 1801",
+    "about": "Deserunt ea voluptate aliquip voluptate. Est non consequat aliqua consectetur qui officia culpa veniam nostrud cupidatat amet ullamco. Do cillum minim reprehenderit laborum sint. Exercitation sunt qui officia sint cupidatat elit incididunt nulla fugiat esse consequat.\r\n",
+    "eventtime": "2021-03-31T11:11:49 -06:-30",
+    "latitude": -14.369716,
+    "longitude": 4.189958,
+    "owners": [
+      {
+        "phone": "+1 (961) 427-2074",
+        "name": "Galloway Hickman"
+      },
+      {
+        "phone": "+1 (816) 460-3272",
+        "name": "Duffy Chang"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c99eaf67f84e7f3dcc",
+    "index": 19,
+    "vehicleid": "c704fe12-0aa5-4310-8a46-0e6159c7f5de",
+    "vehiclename": "Cadillac",
+    "cost": "$3,473.93",
+    "Fuel": "Electric",
+    "color": "white",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Johns Dudley",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (908) 417-2045",
+    "address": "129 Dewey Place, Thermal, Texas, 5322",
+    "about": "Ad dolore qui nisi cupidatat incididunt nisi sint dolor ipsum cupidatat. Tempor mollit duis et mollit et ex pariatur duis laboris do do elit dolor. Magna fugiat dolor voluptate cupidatat anim nisi labore esse occaecat et irure ad. Non nulla ex anim proident ad velit commodo proident. Magna laborum cupidatat proident anim quis. Excepteur consectetur amet reprehenderit eiusmod non adipisicing in tempor ea in mollit deserunt incididunt velit.\r\n",
+    "eventtime": "2019-09-17T07:04:41 -06:-30",
+    "latitude": 76.044034,
+    "longitude": -4.075014,
+    "owners": [
+      {
+        "phone": "+1 (911) 527-2578",
+        "name": "Jessica Rosario"
+      },
+      {
+        "phone": "+1 (844) 577-3022",
+        "name": "Maryanne Kinney"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c941ddddf0a24c5c23",
+    "index": 20,
+    "vehicleid": "84de354e-5170-45c9-9f96-69063c7e02b2",
+    "vehiclename": "Jeep",
+    "cost": "$9,709.47",
+    "Fuel": "diesel",
+    "color": "blue",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Ferrell Hill",
+    "Transmission": "automatic",
+    "sellingcompany": "Company2",
+    "phone": "+1 (951) 441-2565",
+    "address": "729 Seagate Terrace, Trexlertown, Virgin Islands, 907",
+    "about": "Eiusmod veniam proident aliqua cillum anim labore. Qui mollit consequat qui labore ut eu officia elit ea. Sit in quis cillum adipisicing nisi anim cillum aute nulla. Culpa consectetur sunt consectetur ut proident. Anim esse ut non anim ea cupidatat pariatur ipsum esse elit aute labore est esse. Quis ut est ea proident.\r\n",
+    "eventtime": "2020-04-23T02:47:34 -06:-30",
+    "latitude": 68.904898,
+    "longitude": 44.987197,
+    "owners": [
+      {
+        "phone": "+1 (819) 478-3699",
+        "name": "Yvonne Middleton"
+      },
+      {
+        "phone": "+1 (963) 423-2744",
+        "name": "Bethany Schroeder"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c91437f7cdcfd5f38f",
+    "index": 21,
+    "vehicleid": "9809b2c5-51b3-4f2f-9564-75ee56132cee",
+    "vehiclename": "Jeep",
+    "cost": "$3,579.85",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Nell Robinson",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (911) 499-2395",
+    "address": "164 Utica Avenue, Cassel, Arizona, 4858",
+    "about": "Veniam nulla elit ex ullamco laboris enim. Voluptate elit officia culpa occaecat proident elit. In nulla adipisicing ad laboris commodo irure eu officia aliqua sint sit. Nisi cupidatat qui labore consectetur. Quis in laboris deserunt est aliqua esse est cillum quis esse ex. Commodo commodo sit eiusmod cillum velit magna.\r\n",
+    "eventtime": "2018-01-15T03:07:02 -06:-30",
+    "latitude": -45.57588,
+    "longitude": 91.377517,
+    "owners": [
+      {
+        "phone": "+1 (932) 470-2597",
+        "name": "Howard Pearson"
+      },
+      {
+        "phone": "+1 (953) 408-2707",
+        "name": "Janie Yates"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c92a5085ce42403a18",
+    "index": 22,
+    "vehicleid": "277708ba-5eee-4d62-a626-541f70045575",
+    "vehiclename": "Jeep",
+    "cost": "$7,743.16",
+    "Fuel": "Electric",
+    "color": "white",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Lancaster Marquez",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (936) 413-2353",
+    "address": "518 Fairview Place, Foscoe, Colorado, 5112",
+    "about": "Proident quis enim enim fugiat exercitation mollit Lorem reprehenderit nulla incididunt mollit minim. Irure minim incididunt magna ullamco dolore Lorem quis in consectetur officia duis officia. Elit ullamco elit magna eu commodo dolore ad ipsum magna. Irure pariatur laborum sint do. Consectetur voluptate consectetur laboris anim cillum pariatur enim aliquip adipisicing sunt tempor aute consectetur.\r\n",
+    "eventtime": "2014-07-21T09:08:41 -06:-30",
+    "latitude": -47.495528,
+    "longitude": 55.890049,
+    "owners": [
+      {
+        "phone": "+1 (826) 480-2365",
+        "name": "Katharine Snyder"
+      },
+      {
+        "phone": "+1 (890) 403-2658",
+        "name": "Snow Gordon"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9594fad0865648b16",
+    "index": 23,
+    "vehicleid": "711e9836-9ab6-4827-89fb-54d8bacd810f",
+    "vehiclename": "Cadillac",
+    "cost": "$7,606.55",
+    "Fuel": "diesel",
+    "color": "brown",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Franks Fulton",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (985) 489-2528",
+    "address": "281 Moultrie Street, Bethpage, Federated States Of Micronesia, 2730",
+    "about": "Pariatur veniam incididunt incididunt excepteur eu ea pariatur ullamco non mollit reprehenderit adipisicing. Occaecat nisi dolor ad officia consequat Lorem reprehenderit cillum exercitation mollit pariatur fugiat quis. Irure labore commodo voluptate velit consequat pariatur nostrud dolor adipisicing quis consequat labore. Officia nisi aute esse pariatur dolore aute culpa nulla minim enim qui.\r\n",
+    "eventtime": "2018-07-20T06:28:26 -06:-30",
+    "latitude": 64.082814,
+    "longitude": -167.114142,
+    "owners": [
+      {
+        "phone": "+1 (852) 411-3464",
+        "name": "Franklin Pacheco"
+      },
+      {
+        "phone": "+1 (874) 581-3483",
+        "name": "Aguirre Moss"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9acd0869ac61fe1c6",
+    "index": 24,
+    "vehicleid": "524e5a97-8ae2-47eb-9ca0-82b2f83b6111",
+    "vehiclename": "Buick",
+    "cost": "$2,607.95",
+    "Fuel": "petrol",
+    "color": "white",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Sabrina Grimes",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (836) 456-3571",
+    "address": "236 Metrotech Courtr, Charco, West Virginia, 2803",
+    "about": "Et magna officia sit ea elit quis occaecat enim veniam do. Adipisicing nostrud sit tempor amet sint est. Adipisicing voluptate est consectetur Lorem anim quis esse fugiat dolor esse aliquip Lorem. Occaecat voluptate dolore sint et Lorem quis esse velit cupidatat commodo. Consectetur ad consectetur sunt ad duis aliqua proident ex culpa ipsum laboris.\r\n",
+    "eventtime": "2018-03-04T08:20:48 -06:-30",
+    "latitude": -37.05087,
+    "longitude": 39.043795,
+    "owners": [
+      {
+        "phone": "+1 (802) 533-2570",
+        "name": "Delia Murphy"
+      },
+      {
+        "phone": "+1 (829) 583-2048",
+        "name": "Vance Long"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c92a5c597b5117f8c8",
+    "index": 25,
+    "vehicleid": "174288ea-b2bc-4715-acf4-34d9a80cdedd",
+    "vehiclename": "Cadillac",
+    "cost": "$7,781.21",
+    "Fuel": "Electric",
+    "color": "brown",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Wheeler Richard",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (825) 558-3653",
+    "address": "910 Sackett Street, Greenbush, Wyoming, 1411",
+    "about": "Nisi consequat mollit mollit sunt labore aliqua occaecat culpa. Voluptate sit pariatur velit adipisicing adipisicing elit. Sint ad aute ipsum velit eiusmod. Nisi adipisicing qui exercitation est proident nisi cupidatat sint cillum. Lorem tempor magna labore tempor eu enim.\r\n",
+    "eventtime": "2014-05-14T06:08:12 -06:-30",
+    "latitude": 46.26962,
+    "longitude": 86.524434,
+    "owners": [
+      {
+        "phone": "+1 (985) 471-3380",
+        "name": "Goldie Richmond"
+      },
+      {
+        "phone": "+1 (836) 591-3524",
+        "name": "Amanda Callahan"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c91652382a47d26734",
+    "index": 26,
+    "vehicleid": "770f7b6f-dce2-48a0-a171-2a1860bda9b5",
+    "vehiclename": "Ford",
+    "cost": "$6,548.33",
+    "Fuel": "Electric",
+    "color": "blue",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Cortez Norman",
+    "Transmission": "automatic",
+    "sellingcompany": "Company2",
+    "phone": "+1 (924) 447-2701",
+    "address": "330 Sutton Street, Herald, Maine, 7356",
+    "about": "Adipisicing dolore esse adipisicing labore esse ipsum voluptate incididunt pariatur in labore non. Magna aliquip irure pariatur sint eu enim. Aliqua sint sunt est excepteur minim enim ipsum qui aliquip ullamco minim ut amet incididunt. Velit et do qui aliquip aute elit consequat fugiat ex. Nulla in amet eiusmod cillum id sunt est consequat excepteur.\r\n",
+    "eventtime": "2020-06-10T11:39:24 -06:-30",
+    "latitude": 27.938212,
+    "longitude": 9.747661,
+    "owners": [
+      {
+        "phone": "+1 (888) 527-2020",
+        "name": "Coffey Horton"
+      },
+      {
+        "phone": "+1 (975) 402-2881",
+        "name": "May Flores"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9671c166b6cef4349",
+    "index": 27,
+    "vehicleid": "12bb3b73-ae6b-4ff8-a9b3-2b694bb8b3f3",
+    "vehiclename": "Chevrolet",
+    "cost": "$5,260.38",
+    "Fuel": "petrol",
+    "color": "white",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Conway Barnes",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (828) 585-3456",
+    "address": "454 Prospect Avenue, Zarephath, Alabama, 2929",
+    "about": "Aute veniam id in do magna qui culpa aute. Irure incididunt laborum dolor eiusmod tempor elit consectetur quis ullamco non quis voluptate. Laborum laborum est est laborum. Aliquip proident laboris nulla est exercitation id ad tempor in reprehenderit.\r\n",
+    "eventtime": "2019-12-08T05:35:59 -06:-30",
+    "latitude": 1.548849,
+    "longitude": -75.961748,
+    "owners": [
+      {
+        "phone": "+1 (855) 530-3560",
+        "name": "Morgan Buckner"
+      },
+      {
+        "phone": "+1 (919) 597-2863",
+        "name": "Carson Clay"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9bd6a1199870f3b98",
+    "index": 28,
+    "vehicleid": "1ecbef5f-d1c9-4fb5-af4f-2fb79d5d3891",
+    "vehiclename": "Ford",
+    "cost": "$9,918.56",
+    "Fuel": "diesel",
+    "color": "black",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Edwards Burke",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (937) 567-2085",
+    "address": "858 Remsen Avenue, Dundee, South Carolina, 8233",
+    "about": "Ullamco enim sint ullamco tempor ex dolor ad. Quis in eu non ullamco culpa ipsum eiusmod laborum mollit aliqua elit excepteur. Deserunt do consequat ullamco pariatur Lorem adipisicing adipisicing duis exercitation labore. Minim sunt veniam occaecat amet laboris duis ipsum minim adipisicing esse deserunt eu.\r\n",
+    "eventtime": "2019-12-10T03:47:15 -06:-30",
+    "latitude": -23.478728,
+    "longitude": -155.030072,
+    "owners": [
+      {
+        "phone": "+1 (949) 584-2666",
+        "name": "Chen Bean"
+      },
+      {
+        "phone": "+1 (973) 520-2342",
+        "name": "Barrett Mccarty"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9fb56126ed21dcb05",
+    "index": 29,
+    "vehicleid": "7c8143b6-2312-4ed9-acf0-9cba5992634e",
+    "vehiclename": "Chevrolet",
+    "cost": "$4,555.12",
+    "Fuel": "diesel",
+    "color": "blue",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Hartman Baird",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (838) 491-2966",
+    "address": "434 Union Street, Bethany, Arkansas, 6998",
+    "about": "Proident sunt voluptate nulla ut. Aute in aliqua cupidatat laboris mollit labore ullamco dolore aute amet. Reprehenderit enim in fugiat nostrud do reprehenderit incididunt laborum dolore reprehenderit cupidatat deserunt labore laboris. Mollit aute occaecat deserunt consequat et exercitation aliquip tempor nisi nostrud commodo cillum irure. Magna sit do exercitation pariatur do eiusmod qui Lorem nostrud anim excepteur quis occaecat duis. Nulla nisi sunt consectetur adipisicing sunt nulla ea labore deserunt labore cupidatat magna ut sit.\r\n",
+    "eventtime": "2018-07-03T08:45:52 -06:-30",
+    "latitude": -58.351473,
+    "longitude": -36.907376,
+    "owners": [
+      {
+        "phone": "+1 (972) 454-3816",
+        "name": "Tamika Baker"
+      },
+      {
+        "phone": "+1 (982) 575-3608",
+        "name": "Winnie Guerrero"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c99910acbad53d13ae",
+    "index": 30,
+    "vehicleid": "cc4566ba-6565-4a04-9a31-2468f4f4d722",
+    "vehiclename": "Ford",
+    "cost": "$4,847.03",
+    "Fuel": "Electric",
+    "color": "black",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Bettye Logan",
+    "Transmission": "automatic",
+    "sellingcompany": "Company2",
+    "phone": "+1 (817) 575-3616",
+    "address": "953 Erasmus Street, Jackpot, American Samoa, 5816",
+    "about": "In in laborum aliqua commodo fugiat culpa mollit commodo irure. Ipsum aliqua esse dolore sunt ut laborum consectetur. Voluptate voluptate eu ex eiusmod.\r\n",
+    "eventtime": "2019-08-02T01:20:29 -06:-30",
+    "latitude": 69.578306,
+    "longitude": 53.753484,
+    "owners": [
+      {
+        "phone": "+1 (943) 411-2948",
+        "name": "Stephens Mcgowan"
+      },
+      {
+        "phone": "+1 (918) 502-2716",
+        "name": "Kerr Pace"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c90d019f6f95957f65",
+    "index": 31,
+    "vehicleid": "53790431-d103-4e69-a61e-a514d4004c30",
+    "vehiclename": "Buick",
+    "cost": "$8,434.14",
+    "Fuel": "diesel",
+    "color": "black",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Cabrera Franklin",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (810) 504-3937",
+    "address": "988 Montauk Court, Baden, Connecticut, 1250",
+    "about": "Duis voluptate eiusmod anim esse do dolor excepteur duis aliquip veniam non enim. Duis ut est esse nostrud occaecat laboris cupidatat proident laborum voluptate. Nostrud consectetur amet do esse nisi esse id laborum minim pariatur magna quis. Deserunt laborum ut ad consectetur voluptate. Est adipisicing consectetur labore officia. Est ea ea exercitation ullamco minim dolore qui amet fugiat cillum veniam cillum occaecat veniam. Exercitation consectetur reprehenderit reprehenderit ea incididunt enim.\r\n",
+    "eventtime": "2021-02-10T05:23:47 -06:-30",
+    "latitude": -86.949843,
+    "longitude": -136.694045,
+    "owners": [
+      {
+        "phone": "+1 (926) 585-3060",
+        "name": "Beard Holden"
+      },
+      {
+        "phone": "+1 (981) 584-3849",
+        "name": "Montgomery Sims"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9cbc14e042bdf55ec",
+    "index": 32,
+    "vehicleid": "9217878d-1624-442c-a770-72c4dedbbae2",
+    "vehiclename": "Ford",
+    "cost": "$6,246.08",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Bray Riggs",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (989) 531-3225",
+    "address": "776 Schenck Court, Fingerville, Idaho, 1171",
+    "about": "Exercitation non officia deserunt consequat ea. Velit velit sint mollit et Lorem culpa reprehenderit. Ea sit adipisicing tempor in anim magna ea est sit nostrud exercitation non aute esse. Laboris laborum incididunt officia ex laboris elit enim mollit est commodo veniam nulla labore dolore.\r\n",
+    "eventtime": "2017-06-23T02:03:15 -06:-30",
+    "latitude": 74.308796,
+    "longitude": -154.243647,
+    "owners": [
+      {
+        "phone": "+1 (978) 492-3889",
+        "name": "Poole Walls"
+      },
+      {
+        "phone": "+1 (827) 581-3742",
+        "name": "Renee Heath"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9584c7b0e97cd8e4f",
+    "index": 33,
+    "vehicleid": "a4a4b47e-c306-45af-a451-fcba7b4c495b",
+    "vehiclename": "Buick",
+    "cost": "$6,080.01",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Miranda Barton",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (897) 431-2930",
+    "address": "595 Everett Avenue, Blanford, New York, 8531",
+    "about": "Occaecat commodo adipisicing minim proident. Consequat voluptate occaecat non eiusmod consectetur ullamco voluptate aliqua adipisicing. Cillum minim ullamco labore non sit ad fugiat reprehenderit sit amet sunt. Minim ad eu reprehenderit reprehenderit labore minim eiusmod excepteur reprehenderit consectetur ex minim. Ullamco ipsum pariatur quis quis et nostrud ea ex Lorem dolore.\r\n",
+    "eventtime": "2018-09-18T06:11:12 -06:-30",
+    "latitude": -89.0802,
+    "longitude": -147.374661,
+    "owners": [
+      {
+        "phone": "+1 (805) 477-2662",
+        "name": "Tessa Atkins"
+      },
+      {
+        "phone": "+1 (904) 513-3197",
+        "name": "Desiree Allen"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c971cf1cb0ddb1755d",
+    "index": 34,
+    "vehicleid": "e5f97762-1c7d-4b2b-b08f-dc5d171a280a",
+    "vehiclename": "Ford",
+    "cost": "$3,679.73",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Allyson Little",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (804) 575-2020",
+    "address": "690 Hanson Place, Freelandville, Wisconsin, 6829",
+    "about": "Cillum non laboris velit elit consectetur do nisi adipisicing consequat tempor aliquip. Dolore eiusmod deserunt ea duis cupidatat minim non. Veniam pariatur pariatur cupidatat duis in reprehenderit incididunt laboris aliquip quis labore duis. Nostrud id adipisicing proident magna cupidatat laborum consequat ullamco consectetur officia ut laborum. Nisi veniam aliquip Lorem eu sunt cillum deserunt quis labore non eu nostrud ea. Excepteur magna irure cupidatat esse fugiat ipsum culpa cupidatat excepteur ipsum veniam aliquip.\r\n",
+    "eventtime": "2020-09-29T09:58:05 -06:-30",
+    "latitude": 45.69319,
+    "longitude": -101.156769,
+    "owners": [
+      {
+        "phone": "+1 (891) 569-3894",
+        "name": "Lavonne Browning"
+      },
+      {
+        "phone": "+1 (989) 437-2967",
+        "name": "Kari Berg"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9902e7a29fde964bc",
+    "index": 35,
+    "vehicleid": "297daebc-4fd7-4ed2-a61b-27a60b3b52bb",
+    "vehiclename": "Jeep",
+    "cost": "$5,903.56",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Wong Taylor",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (987) 600-2188",
+    "address": "432 Newton Street, Mooresburg, Michigan, 4878",
+    "about": "Aliquip consectetur aute incididunt amet. Id consequat non mollit ad reprehenderit magna adipisicing aliqua magna reprehenderit velit quis ex. Cupidatat Lorem in nisi exercitation ad aliquip elit velit ullamco cupidatat. Labore sint velit ex officia duis cillum consequat aliquip cillum quis dolor dolore excepteur. Id duis dolore enim officia irure non irure. Et quis cupidatat magna incididunt enim in minim non excepteur nulla reprehenderit non.\r\n",
+    "eventtime": "2018-06-24T03:27:36 -06:-30",
+    "latitude": -70.393413,
+    "longitude": 139.350562,
+    "owners": [
+      {
+        "phone": "+1 (944) 557-2985",
+        "name": "England Johnston"
+      },
+      {
+        "phone": "+1 (866) 533-3678",
+        "name": "Clara Riley"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9b120cdfd1f681f5b",
+    "index": 36,
+    "vehicleid": "beeb5cc0-86ca-42c1-a049-20e2c34f613c",
+    "vehiclename": "Jeep",
+    "cost": "$7,531.99",
+    "Fuel": "Electric",
+    "color": "white",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Bowman Kent",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (868) 463-3058",
+    "address": "823 Driggs Avenue, Bartley, Hawaii, 2676",
+    "about": "Qui aliquip dolore veniam dolor sunt laborum nulla. Laborum consequat elit ad officia exercitation qui. Cupidatat tempor nostrud eiusmod dolore ullamco dolor proident amet. Officia enim nulla duis sit pariatur adipisicing quis laborum officia duis nisi cupidatat id.\r\n",
+    "eventtime": "2020-12-24T05:35:05 -06:-30",
+    "latitude": 29.976647,
+    "longitude": -129.798644,
+    "owners": [
+      {
+        "phone": "+1 (843) 405-3971",
+        "name": "Ayala Campbell"
+      },
+      {
+        "phone": "+1 (892) 500-2580",
+        "name": "Walker Hamilton"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c95fa2b54a23d5ec03",
+    "index": 37,
+    "vehicleid": "339adbc2-11f4-41ad-a761-8a0abe9c64bb",
+    "vehiclename": "Jeep",
+    "cost": "$2,896.39",
+    "Fuel": "diesel",
+    "color": "blue",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Helena Patel",
+    "Transmission": "manual",
+    "sellingcompany": "Company4",
+    "phone": "+1 (993) 414-3418",
+    "address": "568 Elmwood Avenue, Kennedyville, North Dakota, 2547",
+    "about": "Eiusmod irure sint reprehenderit mollit eiusmod enim id adipisicing est occaecat. Sunt excepteur nostrud duis elit ipsum Lorem. Nulla elit eiusmod fugiat magna ea dolor aute aute adipisicing non mollit.\r\n",
+    "eventtime": "2017-01-01T01:42:21 -06:-30",
+    "latitude": 76.842052,
+    "longitude": 179.714591,
+    "owners": [
+      {
+        "phone": "+1 (825) 510-2599",
+        "name": "Rhoda Mills"
+      },
+      {
+        "phone": "+1 (936) 503-3756",
+        "name": "Toni Stein"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c96dcf49e592c427a9",
+    "index": 38,
+    "vehicleid": "c67b2cf6-393e-4aef-a31a-5630878b55a9",
+    "vehiclename": "Jeep",
+    "cost": "$9,407.24",
+    "Fuel": "petrol",
+    "color": "blue",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Madeline Dunlap",
+    "Transmission": "automatic",
+    "sellingcompany": "Company1",
+    "phone": "+1 (957) 571-2243",
+    "address": "572 Interborough Parkway, Benson, Marshall Islands, 9489",
+    "about": "Ut nostrud adipisicing qui excepteur aliquip culpa laboris dolore in aliquip proident voluptate in in. Occaecat nulla commodo cillum qui magna ipsum exercitation. Occaecat mollit anim do reprehenderit et veniam incididunt. Occaecat ipsum incididunt exercitation dolor proident ullamco esse minim.\r\n",
+    "eventtime": "2019-09-30T10:00:15 -06:-30",
+    "latitude": 54.72094,
+    "longitude": -37.049357,
+    "owners": [
+      {
+        "phone": "+1 (919) 411-3564",
+        "name": "Hannah Reynolds"
+      },
+      {
+        "phone": "+1 (938) 562-3860",
+        "name": "Wilson Clemons"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c96d01f7514473313d",
+    "index": 39,
+    "vehicleid": "6f6297db-9413-4a01-a919-5b13ffd7e52c",
+    "vehiclename": "Jeep",
+    "cost": "$9,317.14",
+    "Fuel": "petrol",
+    "color": "black",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Valenzuela Malone",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (869) 415-3673",
+    "address": "989 Devoe Street, Edinburg, Utah, 6520",
+    "about": "Exercitation veniam enim id consequat. In pariatur dolore dolore incididunt officia consequat. Duis eiusmod veniam minim elit in aliqua qui mollit qui eu ullamco commodo. Occaecat aliqua adipisicing incididunt minim enim sunt do ullamco tempor voluptate consectetur. Cupidatat ullamco elit veniam excepteur proident nostrud ea aute officia culpa velit eu. Occaecat est voluptate et aute anim nostrud sit anim.\r\n",
+    "eventtime": "2019-10-29T12:10:00 -06:-30",
+    "latitude": 57.347539,
+    "longitude": 97.068922,
+    "owners": [
+      {
+        "phone": "+1 (856) 453-2979",
+        "name": "Reese Hansen"
+      },
+      {
+        "phone": "+1 (877) 597-3683",
+        "name": "Sanders Combs"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c93bcfc5159721a23d",
+    "index": 40,
+    "vehicleid": "c27dd855-c55a-4a26-927b-105f3f63c621",
+    "vehiclename": "Jeep",
+    "cost": "$7,813.46",
+    "Fuel": "Electric",
+    "color": "blue",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Lauri Blackwell",
+    "Transmission": "manual",
+    "sellingcompany": "Company4",
+    "phone": "+1 (948) 455-3658",
+    "address": "884 Randolph Street, Lookingglass, South Dakota, 5924",
+    "about": "Fugiat proident tempor velit mollit aliqua excepteur tempor amet dolore non esse ad. Duis adipisicing anim quis nisi Lorem proident ullamco sunt amet veniam fugiat incididunt non. Consequat et ea laborum do adipisicing sunt minim elit commodo. Exercitation occaecat aliqua id magna. Id voluptate nulla sit sint anim est est laborum. Esse mollit Lorem fugiat esse. Adipisicing mollit esse sunt in ut in laborum anim.\r\n",
+    "eventtime": "2017-05-15T02:13:35 -06:-30",
+    "latitude": -56.262913,
+    "longitude": -143.207592,
+    "owners": [
+      {
+        "phone": "+1 (832) 439-3517",
+        "name": "Araceli Moore"
+      },
+      {
+        "phone": "+1 (977) 480-3685",
+        "name": "Nguyen Lloyd"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c9dfe4f889ab9f4370",
+    "index": 41,
+    "vehicleid": "79e4bad4-b4f5-4b2e-ac0f-33b4c9e6950e",
+    "vehiclename": "Jeep",
+    "cost": "$5,430.53",
+    "Fuel": "diesel",
+    "color": "black",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Willa York",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (884) 589-2294",
+    "address": "439 Varet Street, Breinigsville, Louisiana, 8891",
+    "about": "Et esse enim labore veniam dolore enim amet anim qui do esse mollit. Fugiat ad mollit est amet ut irure dolore eiusmod labore sit do adipisicing. Enim consectetur ex non ullamco laborum tempor. Quis occaecat anim enim in consectetur est pariatur ullamco veniam ut eiusmod. Eu velit id dolore aliqua. Et aute aliquip dolor aliquip eu laboris pariatur reprehenderit culpa officia.\r\n",
+    "eventtime": "2019-11-11T01:16:15 -06:-30",
+    "latitude": 30.848958,
+    "longitude": -16.260878,
+    "owners": [
+      {
+        "phone": "+1 (803) 496-3480",
+        "name": "Justice Wynn"
+      },
+      {
+        "phone": "+1 (929) 472-3595",
+        "name": "Bernadette Stark"
+      }
+    ]
+  },
+  {
+    "_id": "60f623c921777439f89f85d1",
+    "index": 42,
+    "vehicleid": "d3174593-f5a1-4995-8ede-630698e03f05",
+    "vehiclename": "Cadillac",
+    "cost": "$2,646.35",
+    "Fuel": "Electric",
+    "color": "black",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Cathy Howard",
+    "Transmission": "manual",
+    "sellingcompany": "Company4",
+    "phone": "+1 (920) 494-2067",
+    "address": "939 Willoughby Avenue, Roulette, Minnesota, 5428",
+    "about": "Incididunt ipsum eu ipsum veniam non eiusmod. Enim nisi tempor duis ipsum ipsum qui ut laborum consequat eiusmod. Irure eu et veniam officia magna commodo aute velit consectetur. Veniam ea ut aliquip enim. Non velit dolore dolore non consectetur ipsum reprehenderit Lorem esse. Enim eiusmod elit commodo nisi id et nostrud officia id.\r\n",
+    "eventtime": "2020-12-11T03:03:49 -06:-30",
+    "latitude": 15.304341,
+    "longitude": 49.108366,
+    "owners": [
+      {
+        "phone": "+1 (940) 474-3771",
+        "name": "Frederick Morton"
+      },
+      {
+        "phone": "+1 (994) 512-3830",
+        "name": "Madeleine Ware"
+      }
+    ]
+  }
+]

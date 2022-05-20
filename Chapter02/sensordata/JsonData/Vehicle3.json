@@ -1,0 +1,176 @@
+[
+  {
+    "_id": "60f623d243e4d324f77ae9ea",
+    "index": 0,
+    "vehicleid": "e7e11d35-67ba-4650-907a-110cb520505f",
+    "vehiclename": "Buick",
+    "cost": "$6,635.44",
+    "Fuel": "diesel",
+    "color": "white",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Lisa Fitzpatrick",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (954) 500-3975",
+    "address": "773 Pacific Street, Linganore, Kansas, 9572",
+    "about": "Aute exercitation deserunt ea consequat qui voluptate ex veniam aliqua Lorem deserunt velit est anim. Excepteur ex irure eu id. Ea qui ipsum esse exercitation quis enim dolore culpa dolor. Voluptate id et consequat cillum.\r\n",
+    "eventtime": "2020-11-26T12:30:57 -06:-30",
+    "latitude": -0.417748,
+    "longitude": -46.878972,
+    "owners": [
+      {
+        "phone": "+1 (985) 538-2582",
+        "name": "Raquel Lawson"
+      },
+      {
+        "phone": "+1 (883) 588-2571",
+        "name": "Witt Burch"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d22a7d766e31b74b48",
+    "index": 1,
+    "vehicleid": "113ffd7d-78d7-485f-89cf-1cca6d71d2bf",
+    "vehiclename": "Jeep",
+    "cost": "$4,603.83",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Wilson Stout",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (876) 528-3284",
+    "address": "229 Townsend Street, Brambleton, New Hampshire, 5053",
+    "about": "Labore ad nulla consectetur aliquip consequat esse consectetur aute est non enim amet ad. Fugiat officia ipsum sint voluptate minim consectetur eu anim sit laboris irure duis consequat. Fugiat nulla aliquip do dolor consectetur velit aliqua velit. Dolore deserunt nisi et elit. Qui minim eu sit consequat esse pariatur cillum quis ad commodo ullamco sit ad. Aliquip pariatur tempor non labore occaecat elit tempor consequat est.\r\n",
+    "eventtime": "2019-08-08T05:54:18 -06:-30",
+    "latitude": -48.028754,
+    "longitude": 165.850874,
+    "owners": [
+      {
+        "phone": "+1 (915) 509-3917",
+        "name": "Tamra Herman"
+      },
+      {
+        "phone": "+1 (883) 420-3051",
+        "name": "Hillary Sherman"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d2d145d3f1d50723f1",
+    "index": 2,
+    "vehicleid": "1b0e2898-a8fc-47bc-89ce-132e1477ee34",
+    "vehiclename": "Buick",
+    "cost": "$9,548.72",
+    "Fuel": "petrol",
+    "color": "green",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Cindy Wilcox",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (862) 585-3228",
+    "address": "544 Veranda Place, Enoree, Vermont, 4412",
+    "about": "Ad Lorem anim cupidatat commodo duis nulla labore nostrud labore proident. Ad commodo Lorem aliquip officia consequat. Incididunt consequat elit quis magna ullamco occaecat amet. Eu veniam eiusmod occaecat aute nostrud adipisicing laboris adipisicing. Aliqua consectetur non duis ut aute consequat laboris voluptate esse amet elit laboris.\r\n",
+    "eventtime": "2020-03-02T04:21:14 -06:-30",
+    "latitude": -49.148553,
+    "longitude": -125.225353,
+    "owners": [
+      {
+        "phone": "+1 (908) 552-3371",
+        "name": "Sawyer Fowler"
+      },
+      {
+        "phone": "+1 (872) 580-2159",
+        "name": "Osborn Pratt"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d222f16f5952f9991b",
+    "index": 3,
+    "vehicleid": "c8e27ea7-9719-4705-84ad-cba9b4381126",
+    "vehiclename": "Chevrolet",
+    "cost": "$7,267.46",
+    "Fuel": "Electric",
+    "color": "white",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Kemp Holland",
+    "Transmission": "automatic",
+    "sellingcompany": "Company3",
+    "phone": "+1 (970) 583-3059",
+    "address": "780 Emerald Street, Glenshaw, Montana, 833",
+    "about": "Commodo occaecat sit sunt quis dolor deserunt qui ex non voluptate anim minim aliqua eu. Ea occaecat duis deserunt excepteur laborum labore elit mollit non aliqua. Enim ea culpa ea ex deserunt officia enim exercitation magna minim adipisicing.\r\n",
+    "eventtime": "2020-08-26T06:54:02 -06:-30",
+    "latitude": -29.473536,
+    "longitude": 94.066678,
+    "owners": [
+      {
+        "phone": "+1 (834) 514-3088",
+        "name": "Rice Torres"
+      },
+      {
+        "phone": "+1 (893) 457-3036",
+        "name": "Lamb Campos"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d2c2358a3092ebb8f5",
+    "index": 4,
+    "vehicleid": "86a250cb-d453-4876-a81a-b14087cd65af",
+    "vehiclename": "Chevrolet",
+    "cost": "$8,077.65",
+    "Fuel": "diesel",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Mccarthy Langley",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (918) 577-3968",
+    "address": "776 Halleck Street, Shrewsbury, Louisiana, 5755",
+    "about": "Excepteur laborum incididunt minim enim et sunt sint. Veniam elit voluptate sunt reprehenderit aliqua. Elit consectetur amet elit ea enim in nisi ullamco sint ipsum excepteur. Commodo aliquip amet qui consectetur elit in dolore in.\r\n",
+    "eventtime": "2019-11-22T03:57:03 -06:-30",
+    "latitude": 16.053017,
+    "longitude": 153.312567,
+    "owners": [
+      {
+        "phone": "+1 (942) 400-3333",
+        "name": "Glover Nelson"
+      },
+      {
+        "phone": "+1 (819) 446-2528",
+        "name": "Linda Dotson"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d2db4517a21c40e11f",
+    "index": 5,
+    "vehicleid": "4de89daf-cf31-4d1f-b8b6-b21684f40b89",
+    "vehiclename": "Buick",
+    "cost": "$5,218.36",
+    "Fuel": "diesel",
+    "color": "black",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Wright Barry",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (819) 547-2430",
+    "address": "824 Irving Avenue, Steinhatchee, Tennessee, 5225",
+    "about": "Reprehenderit excepteur velit in do aliquip eu elit sit aute exercitation deserunt sit. Exercitation mollit laboris enim cillum ullamco eiusmod laboris non eiusmod occaecat officia qui. Reprehenderit aliqua incididunt nostrud irure id officia irure veniam commodo. Velit duis sunt consequat et. Duis eiusmod est enim eu dolore consequat veniam consectetur anim aute ad do adipisicing. Proident quis officia ea excepteur qui velit incididunt dolor cupidatat ad irure. Irure do sit nisi ut aute.\r\n",
+    "eventtime": "2017-03-02T02:49:11 -06:-30",
+    "latitude": -70.097272,
+    "longitude": 83.363777,
+    "owners": [
+      {
+        "phone": "+1 (866) 524-2465",
+        "name": "Andrews Odonnell"
+      },
+      {
+        "phone": "+1 (965) 490-3705",
+        "name": "Pruitt Cohen"
+      }
+    ]
+  }
+]

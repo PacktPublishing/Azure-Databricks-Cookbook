@@ -1,0 +1,292 @@
+[
+  {
+    "_id": "60f623d8274d2821495e7845",
+    "index": 0,
+    "vehicleid": "abf70fec-99af-4fe5-b472-068f0adc920f",
+    "vehiclename": "Cadillac",
+    "cost": "$8,267.32",
+    "Fuel": "diesel",
+    "color": "brown",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Kristin Yang",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (944) 428-3731",
+    "address": "103 Turnbull Avenue, Marienthal, District Of Columbia, 8818",
+    "about": "In minim irure ipsum exercitation elit ea ea voluptate ea. Ipsum occaecat pariatur magna nostrud id officia occaecat aliquip in sunt laborum duis. Consequat consectetur voluptate cillum eu veniam elit. Reprehenderit esse minim irure dolor laboris est Lorem sit qui occaecat.\r\n",
+    "eventtime": "2016-08-24T08:09:01 -06:-30",
+    "latitude": 2.423732,
+    "longitude": -100.965177,
+    "owners": [
+      {
+        "phone": "+1 (839) 421-3262",
+        "name": "Eloise Lucas"
+      },
+      {
+        "phone": "+1 (888) 596-2081",
+        "name": "Estela Stevenson"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d8c4283686c85e555a",
+    "index": 1,
+    "vehicleid": "fdbf686f-fce5-41e7-9aaa-c4f7d2182873",
+    "vehiclename": "Buick",
+    "cost": "$7,168.53",
+    "Fuel": "Electric",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Curtis Knight",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (865) 532-2126",
+    "address": "215 Ross Street, Hendersonville, South Carolina, 655",
+    "about": "Nisi enim occaecat fugiat mollit deserunt sint sint sunt enim laborum exercitation proident sunt. Tempor pariatur minim tempor excepteur ex laborum aute. Esse sint eu sint ad ullamco voluptate incididunt ad ex ipsum.\r\n",
+    "eventtime": "2018-02-19T12:52:56 -06:-30",
+    "latitude": 63.493099,
+    "longitude": 145.833022,
+    "owners": [
+      {
+        "phone": "+1 (959) 519-2893",
+        "name": "Georgina Roberson"
+      },
+      {
+        "phone": "+1 (905) 586-3998",
+        "name": "Ophelia Buchanan"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d8afb062398cf0b4f1",
+    "index": 2,
+    "vehicleid": "35e264e5-dfc9-425e-8381-c4deaf89c216",
+    "vehiclename": "Buick",
+    "cost": "$7,678.71",
+    "Fuel": "Electric",
+    "color": "white",
+    "seatingcapacity": "4 seater",
+    "currentowner": "Tamara Justice",
+    "Transmission": "automatic",
+    "sellingcompany": "Company2",
+    "phone": "+1 (974) 501-3185",
+    "address": "961 Russell Street, Beaulieu, New York, 3010",
+    "about": "Labore veniam esse non est culpa laboris aute commodo non velit culpa minim anim magna. Minim minim non laborum id exercitation consequat sunt proident nulla ullamco consectetur nulla. Officia ad veniam proident velit qui. Do velit exercitation eiusmod culpa dolore elit nulla tempor id deserunt reprehenderit esse nulla. Magna id adipisicing do occaecat labore nisi mollit consequat velit enim amet ea sit. Sit cupidatat aliquip id veniam tempor irure quis ad laboris labore exercitation officia. Pariatur ea anim culpa excepteur consectetur.\r\n",
+    "eventtime": "2018-06-13T10:45:50 -06:-30",
+    "latitude": 83.31974,
+    "longitude": 137.291959,
+    "owners": [
+      {
+        "phone": "+1 (808) 432-2140",
+        "name": "Ayala Leblanc"
+      },
+      {
+        "phone": "+1 (978) 586-2548",
+        "name": "Angeline Watkins"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d80e17bbe88c8662a3",
+    "index": 3,
+    "vehicleid": "6fa59a04-417e-4469-bff5-d4b93df6cda4",
+    "vehiclename": "Cadillac",
+    "cost": "$5,260.53",
+    "Fuel": "petrol",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Acevedo Hines",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (935) 568-3855",
+    "address": "794 Krier Place, Boyd, Puerto Rico, 1193",
+    "about": "Enim amet occaecat sunt adipisicing non consequat. Laborum amet eiusmod dolor est sit culpa. Cillum sit irure minim aliquip qui irure qui proident. Et reprehenderit aute consequat minim est aliqua dolore ullamco ipsum non duis.\r\n",
+    "eventtime": "2018-03-30T10:00:59 -06:-30",
+    "latitude": -49.792298,
+    "longitude": -33.869657,
+    "owners": [
+      {
+        "phone": "+1 (918) 567-2401",
+        "name": "Margarita Gonzales"
+      },
+      {
+        "phone": "+1 (823) 539-2635",
+        "name": "Cherry Giles"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d800d2ece9d80b1a83",
+    "index": 4,
+    "vehicleid": "d94deaf8-ff26-401c-9ece-9bc5b1ca8051",
+    "vehiclename": "Buick",
+    "cost": "$3,265.63",
+    "Fuel": "petrol",
+    "color": "black",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Cindy Gould",
+    "Transmission": "manual",
+    "sellingcompany": "Company3",
+    "phone": "+1 (869) 530-3486",
+    "address": "287 Linwood Street, Madaket, South Dakota, 6585",
+    "about": "Magna ut dolore Lorem culpa ex elit. Cupidatat officia culpa ullamco occaecat cillum deserunt sunt reprehenderit mollit eiusmod amet minim. Sunt aliqua pariatur minim voluptate non aliquip occaecat do.\r\n",
+    "eventtime": "2020-08-12T02:15:18 -06:-30",
+    "latitude": 87.08603,
+    "longitude": 41.018766,
+    "owners": [
+      {
+        "phone": "+1 (980) 453-2203",
+        "name": "Cardenas Valenzuela"
+      },
+      {
+        "phone": "+1 (991) 500-3183",
+        "name": "Louise Wolfe"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d8b809cbb723527f74",
+    "index": 5,
+    "vehicleid": "dfd13eb8-e7e3-4465-beac-52995e1c20b8",
+    "vehiclename": "Jeep",
+    "cost": "$6,755.84",
+    "Fuel": "Electric",
+    "color": "white",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Earnestine Atkinson",
+    "Transmission": "automatic",
+    "sellingcompany": "Company4",
+    "phone": "+1 (933) 556-3853",
+    "address": "778 Lawrence Avenue, Richville, Idaho, 5601",
+    "about": "Fugiat consectetur magna sit enim enim adipisicing ullamco non. Deserunt aliqua laboris dolor eiusmod. Ex qui sunt duis commodo ex fugiat Lorem ipsum velit. Quis ex magna consequat labore commodo laboris nulla sint adipisicing cillum occaecat ipsum qui culpa. Ad nostrud duis reprehenderit occaecat aute officia culpa Lorem. Reprehenderit incididunt proident ut reprehenderit eu voluptate anim adipisicing officia exercitation laboris enim.\r\n",
+    "eventtime": "2015-09-09T01:39:30 -06:-30",
+    "latitude": 60.341779,
+    "longitude": -122.997362,
+    "owners": [
+      {
+        "phone": "+1 (823) 478-2453",
+        "name": "Connie Shelton"
+      },
+      {
+        "phone": "+1 (910) 549-2945",
+        "name": "Schmidt Sawyer"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d837b77f9043a019e4",
+    "index": 6,
+    "vehicleid": "44b0c785-380a-450d-98e6-994336737680",
+    "vehiclename": "Cadillac",
+    "cost": "$5,737.44",
+    "Fuel": "diesel",
+    "color": "white",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Chase Rollins",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (966) 435-2519",
+    "address": "745 Ashland Place, Nipinnawasee, Illinois, 9410",
+    "about": "Cupidatat est nulla laboris sunt incididunt et id mollit commodo tempor et Lorem cupidatat. In Lorem consectetur amet mollit culpa ea ullamco minim. Ullamco minim ex proident deserunt officia mollit ad id pariatur. Et nulla nisi eiusmod eiusmod.\r\n",
+    "eventtime": "2020-08-07T04:08:05 -06:-30",
+    "latitude": -81.53305,
+    "longitude": -51.839053,
+    "owners": [
+      {
+        "phone": "+1 (994) 548-3417",
+        "name": "Edwards Bauer"
+      },
+      {
+        "phone": "+1 (984) 447-3443",
+        "name": "Horn Nicholson"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d8f45307c318e891dc",
+    "index": 7,
+    "vehicleid": "e104794c-79f7-47ab-987e-47f13af48709",
+    "vehiclename": "Ford",
+    "cost": "$6,926.47",
+    "Fuel": "diesel",
+    "color": "blue",
+    "seatingcapacity": "2 seater",
+    "currentowner": "Bridgette Compton",
+    "Transmission": "manual",
+    "sellingcompany": "Company2",
+    "phone": "+1 (977) 592-2293",
+    "address": "811 Schermerhorn Street, Fairview, Nevada, 7584",
+    "about": "Ex mollit incididunt quis id in ullamco eu proident. Do nostrud ea anim tempor ipsum cillum minim ipsum officia officia. Aliquip esse quis voluptate laboris quis dolore quis nostrud enim velit consequat id et. Incididunt deserunt eu amet exercitation sint nostrud esse veniam ut est. Veniam do incididunt culpa aliquip minim. Fugiat elit eu Lorem proident dolore duis pariatur enim. Amet veniam tempor consectetur enim pariatur Lorem pariatur laborum qui.\r\n",
+    "eventtime": "2018-09-22T05:25:28 -06:-30",
+    "latitude": -5.883308,
+    "longitude": 3.683609,
+    "owners": [
+      {
+        "phone": "+1 (970) 453-3528",
+        "name": "Ollie Tillman"
+      },
+      {
+        "phone": "+1 (810) 545-2715",
+        "name": "Eliza Wall"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d82169c69b2f23e168",
+    "index": 8,
+    "vehicleid": "ad6478e2-b855-45b0-a10b-93bccbadf8a8",
+    "vehiclename": "Cadillac",
+    "cost": "$7,300.58",
+    "Fuel": "diesel",
+    "color": "green",
+    "seatingcapacity": "7 seater",
+    "currentowner": "Vaughan Santos",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (984) 437-2376",
+    "address": "635 Bay Avenue, Charco, Mississippi, 6052",
+    "about": "Id aliqua laboris excepteur in qui dolor aliquip nisi aliquip. Veniam labore do veniam consectetur. Elit ipsum reprehenderit ut ullamco non do laboris nisi et officia nostrud excepteur occaecat velit. Pariatur cillum culpa fugiat cillum enim consectetur deserunt in ea pariatur velit ipsum laborum laborum. Minim tempor commodo esse laborum elit.\r\n",
+    "eventtime": "2014-12-22T05:16:57 -06:-30",
+    "latitude": -28.200765,
+    "longitude": -70.229064,
+    "owners": [
+      {
+        "phone": "+1 (884) 468-2027",
+        "name": "Joyce Hyde"
+      },
+      {
+        "phone": "+1 (966) 461-2487",
+        "name": "Diann Patton"
+      }
+    ]
+  },
+  {
+    "_id": "60f623d87a729f57e64828ef",
+    "index": 9,
+    "vehicleid": "4b59f1fd-23d7-4ace-93df-312a6e83881c",
+    "vehiclename": "Cadillac",
+    "cost": "$8,907.09",
+    "Fuel": "diesel",
+    "color": "brown",
+    "seatingcapacity": "5 seater",
+    "currentowner": "Marietta Dale",
+    "Transmission": "manual",
+    "sellingcompany": "Company1",
+    "phone": "+1 (990) 553-3073",
+    "address": "313 Allen Avenue, Savannah, Kentucky, 5336",
+    "about": "Proident non minim veniam nostrud consequat. Sit esse labore tempor nostrud consectetur consequat est nostrud dolor proident labore ullamco Lorem eiusmod. Pariatur nostrud minim eu enim non deserunt fugiat occaecat. Qui commodo Lorem anim nisi enim id dolore velit elit labore pariatur laboris. Eiusmod reprehenderit consequat consectetur irure ad ex. Et tempor enim nulla proident dolore exercitation proident. Culpa id fugiat sit quis ad do sunt eu.\r\n",
+    "eventtime": "2017-02-12T09:38:32 -06:-30",
+    "latitude": 20.481769,
+    "longitude": 104.339572,
+    "owners": [
+      {
+        "phone": "+1 (822) 559-3910",
+        "name": "Gale White"
+      },
+      {
+        "phone": "+1 (847) 524-3730",
+        "name": "Delores Mclean"
+      }
+    ]
+  }
+]
